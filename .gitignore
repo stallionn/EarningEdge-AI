@@ -1,0 +1,57 @@
+# Master .gitignore for EarningsEdge Project
+# Covers both the virtual environment and the code subfolder
+
+# Virtual environments
+earningsedge_env/
+venv/
+.venv/
+env/
+
+# Python / General
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/*.egg-info/
+**/*.egg
+**/dist/
+**/build/
+**/.eggs/
+
+# Testing
+**/.pytest_cache/
+**/htmlcov/
+**/.coverage
+**/.tox/
+
+# Data and Models (inside EarningsEdge or elsewhere)
+**/data/raw/
+**/data/processed/
+**/data/prices/
+**/data/labels/
+**/data/lexicon/lm_lexicon.pkl
+**/*.csv
+**/*.parquet
+# *.json (keeping configs for now)
+
+# Checkpoints
+**/models/finbert/
+**/models/hedge_ner/
+**/*.pt
+**/*.pth
+**/*.h5
+**/*.bin
+**/*.onnx
+
+# Outputs
+**/signals/
+**/metrics/
+**/logs/
+**/*.log
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
