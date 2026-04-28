@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q2 2021 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "qa",
+    "text": "Operating income reached $3.6 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 60 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q2 2021.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "qa",
+    "text": "We delivered record revenue of $12.2 billion this quarter, representing 16% year-over-year growth.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "qa",
+    "text": "We expect revenues to grow approximately 16% to 25% next quarter, subject to market conditions.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Are you seeing any signs of demand elasticity in your enterprise segment?",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "We delivered record revenue of $12.2 billion this quarter, representing 16% year-over-year growth.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "What assumptions underpin your free cash flow guidance given the elevated capex spend?",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "AXP",
+    "date": "20210509",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 60 basis points pending supplier contract renewals.",
+    "word_count": 15
+  }
+]

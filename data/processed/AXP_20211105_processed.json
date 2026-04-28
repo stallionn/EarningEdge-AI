@@ -1,0 +1,112 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q4 2021 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "remarks",
+    "text": "Operating income reached $0.7 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "remarks",
+    "text": "We expect revenues to grow approximately 14% to 6% next quarter, subject to market conditions.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "remarks",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AXP.",
+    "section": "remarks",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q4 2021.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How are you thinking about pricing power versus volume growth in the current environment?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Our cloud segment grew 14% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "How are you thinking about pricing power versus volume growth in the current environment?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "AXP",
+    "date": "20211105",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We expect revenues to grow approximately 14% to 6% next quarter, subject to market conditions.",
+    "word_count": 15
+  }
+]

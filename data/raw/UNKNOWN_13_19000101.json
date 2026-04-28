@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_1300",
+  "date": "19000101",
+  "raw_text": "The facility consists of a seven year bullet term loan of 200 mln euro $ 292.4 mln and a 150 mln euro $ 219.3 mln five year revolving credit facility .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1300
+}

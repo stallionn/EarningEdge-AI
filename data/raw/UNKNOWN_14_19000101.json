@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_1401",
+  "date": "19000101",
+  "raw_text": "Ahlstrom Corporation STOCK EXCHANGE RELEASE 13.02.2008 Ahlstrom , a global leader in high performance fiber-based materials , today announced the completion of the acquisition of Friend Group Inc. , which consists of West Carrollton Parchment Company and West Carrollton Converting Company .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1401
+}

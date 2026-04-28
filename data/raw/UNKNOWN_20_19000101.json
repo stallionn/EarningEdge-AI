@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_2001",
+  "date": "19000101",
+  "raw_text": "The EBRD is using its own funds to provide a 21.6 mln A loan while the B portion of 10 mln Euros has been syndicated to two Finnish commercial banks , Nordea Bank Finland Plc 7.7 mln Euros and Pohjola Bank Plc 2.3 mln Euros .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 2001
+}

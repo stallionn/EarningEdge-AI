@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_3300",
+  "date": "19000101",
+  "raw_text": "When the web user clicks on the link contained in the mail , he finds himself on a bogus site that imitates that of his bank , and which retrieves his personal banking data .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 3300
+}

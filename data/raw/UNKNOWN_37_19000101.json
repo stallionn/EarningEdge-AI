@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_3700",
+  "date": "19000101",
+  "raw_text": "Ruukki has signed a contract to deliver and install the steel structures for a bridge over the Kyronsalmi strait in Savonlinna , Finland .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 3700
+}

@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0400",
+  "date": "19000101",
+  "raw_text": "Finnish Suominen Corporation that makes wipes , nonwovens , and flexible packaging , expects changes in the market situation to reduce sales of Suominen 's nonwovens and wet wipes from the previously estimated volumes .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 400
+}

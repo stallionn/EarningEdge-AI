@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0500",
+  "date": "19000101",
+  "raw_text": "According to Vauramo , the plant 's lifting equipment is suitable for Asian and for some Chinese trucks .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 500
+}

@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_1501",
+  "date": "19000101",
+  "raw_text": "However , the company saw its net profit for the third quarter down to EUR1 .4 m from EUR1 .5 m for the corresponding period of 2009 .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1501
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q2 2020 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of SCHW.",
+    "section": "remarks",
+    "text": "Our gross margin expanded by 167 basis points to 57.7%, reflecting improved operational efficiency.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of SCHW.",
+    "section": "remarks",
+    "text": "We anticipate margins may be impacted by approximately 167 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of SCHW.",
+    "section": "remarks",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of SCHW.",
+    "section": "remarks",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q2 2020.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How are you thinking about pricing power versus volume growth in the current environment?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "We delivered record revenue of $13.3 billion this quarter, representing 9% year-over-year growth.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "What assumptions underpin your free cash flow guidance given the elevated capex spend?",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "SCHW",
+    "date": "20200519",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  }
+]

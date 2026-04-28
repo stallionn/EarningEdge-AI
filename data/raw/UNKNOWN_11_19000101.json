@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_1100",
+  "date": "19000101",
+  "raw_text": "Nokia , which has a strong track record in the lower-end handset market , said in July its touch-screen offering would come this year and be cheaper than rival models in order to tap into a higher-volume market .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1100
+}

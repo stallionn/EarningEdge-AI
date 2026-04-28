@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_4400",
+  "date": "19000101",
+  "raw_text": "The Board established a Remuneration Committee with following members : - Sari Baldauf Chairman - Tapio Hintikka - Heikki Westerlund In addition , the Board decided to appoint a Nomination Committee at a later stage .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 4400
+}

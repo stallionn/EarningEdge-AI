@@ -1,0 +1,22 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "UNKNOWN_4400",
+    "date": "19000101",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "unknown",
+    "text": "The Board established a Remuneration Committee with following members : - Sari Baldauf Chairman - Tapio Hintikka - Heikki Westerlund",
+    "word_count": 20
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "UNKNOWN_4400",
+    "date": "19000101",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "unknown",
+    "text": "In addition , the Board decided to appoint a Nomination Committee at a later stage .",
+    "word_count": 16
+  }
+]

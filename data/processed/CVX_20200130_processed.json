@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q1 2020 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CVX.",
+    "section": "qa",
+    "text": "Operating income reached $8.7 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CVX.",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CVX.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CVX.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q1 2020.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CVX.",
+    "section": "qa",
+    "text": "Our gross margin expanded by 67 basis points to 55.7%, reflecting improved operational efficiency.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CVX.",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How are you thinking about pricing power versus volume growth in the current environment?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Customer acquisition exceeded our targets with 740 thousand new accounts added in the quarter.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Are you seeing any signs of demand elasticity in your enterprise segment?",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "CVX",
+    "date": "20200130",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  }
+]

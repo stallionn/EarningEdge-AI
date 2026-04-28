@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_3001",
+  "date": "19000101",
+  "raw_text": "The Board of Directors proposes to the Shareholders ' Meeting on 18 March 2010 that the company would pay dividend for the financial year January 1 - December 31 , 2009 , EUR 0.02 per share .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 3001
+}

@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0001",
+  "date": "19000101",
+  "raw_text": "The corresponding increase in the share capital , in total EUR 300,00 was registered in the Finnish Trade Register on May 8 , 2008 .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1
+}

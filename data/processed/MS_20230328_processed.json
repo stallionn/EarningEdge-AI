@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q1 2023 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MS.",
+    "section": "qa",
+    "text": "We generated $7.8 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MS.",
+    "section": "qa",
+    "text": "Our outlook assumes current foreign exchange rates hold; currency fluctuations could materially affect results.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MS.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MS.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q1 2023.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MS.",
+    "section": "qa",
+    "text": "Customer acquisition exceeded our targets with 1172 thousand new accounts added in the quarter.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MS.",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How should we think about the cadence of revenue recognition in the second half?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Our cloud segment grew 3% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "How are you thinking about pricing power versus volume growth in the current environment?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "MS",
+    "date": "20230328",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Revenue guidance of $24.6 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0701",
+  "date": "19000101",
+  "raw_text": "The plan is estimated to generate some EUR 5 million ( USD 6.5 m ) in cost savings on an annual basis .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 701
+}

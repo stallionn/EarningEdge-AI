@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_2801",
+  "date": "19000101",
+  "raw_text": "Coca-Cola was the market leader of manufacturers with a market share of 36.9 % , down 2.2 % from the corresponding period in 2004-2005 .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 2801
+}

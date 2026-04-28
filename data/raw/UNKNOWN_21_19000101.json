@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_2101",
+  "date": "19000101",
+  "raw_text": "Poyry is a global consulting and engineering firm focusing on the energy , forest industry and infrastructure & environment sectors .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 2101
+}

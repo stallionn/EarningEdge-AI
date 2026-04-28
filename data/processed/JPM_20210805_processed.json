@@ -1,0 +1,112 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q3 2021 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of JPM.",
+    "section": "remarks",
+    "text": "We generated $7.5 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of JPM.",
+    "section": "remarks",
+    "text": "Revenue guidance of $19.5 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of JPM.",
+    "section": "remarks",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of JPM.",
+    "section": "remarks",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q3 2021.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "Revenue guidance of $19.5 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How should we think about the cadence of revenue recognition in the second half?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Our gross margin expanded by 91 basis points to 60.9%, reflecting improved operational efficiency.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Are you seeing any signs of demand elasticity in your enterprise segment?",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "JPM",
+    "date": "20210805",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 91 basis points pending supplier contract renewals.",
+    "word_count": 15
+  }
+]

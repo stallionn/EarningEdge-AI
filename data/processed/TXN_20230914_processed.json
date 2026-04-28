@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q3 2023 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of TXN.",
+    "section": "qa",
+    "text": "Our cloud segment grew 23% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of TXN.",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of TXN.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of TXN.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q3 2023.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of TXN.",
+    "section": "qa",
+    "text": "We generated $16.4 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of TXN.",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 197 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Could you quantify the FX headwind embedded in your guidance?",
+    "word_count": 10
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Customer acquisition exceeded our targets with 1546 thousand new accounts added in the quarter.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Are you seeing any signs of demand elasticity in your enterprise segment?",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "TXN",
+    "date": "20230914",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  }
+]

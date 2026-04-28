@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_3800",
+  "date": "19000101",
+  "raw_text": "Calls to the switchboard and directory services have decreased significantly since our employees now have up-to-date contact information from all their colleagues and customers on their phone and can place the call directly .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 3800
+}

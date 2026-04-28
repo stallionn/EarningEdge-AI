@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0200",
+  "date": "19000101",
+  "raw_text": "Chic and cheerful , Finnish design house Marimekko has been sending its geometric textiles out into the world for the past 60 years .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 200
+}

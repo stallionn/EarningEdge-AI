@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q2 2020 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AMD.",
+    "section": "qa",
+    "text": "Our cloud segment grew 24% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AMD.",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AMD.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AMD.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q2 2020.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AMD.",
+    "section": "qa",
+    "text": "We delivered record revenue of $10.1 billion this quarter, representing 24% year-over-year growth.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AMD.",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 73 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Are you seeing any signs of demand elasticity in your enterprise segment?",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Operating income reached $9.9 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Are you seeing any signs of demand elasticity in your enterprise segment?",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "AMD",
+    "date": "20200606",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Revenue guidance of $10.1 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  }
+]

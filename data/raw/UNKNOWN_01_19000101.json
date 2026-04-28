@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0102",
+  "date": "19000101",
+  "raw_text": "Under the agreement GeoSentric will provide GyPSii-powered hotel information and reservation services to visitors to China , including such popular cities as Beijing and Shanghai .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 102
+}

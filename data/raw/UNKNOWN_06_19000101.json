@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0601",
+  "date": "19000101",
+  "raw_text": "With the Basware Connectivity services , companies gain visibility to an audit trail that can be traced from order to goods delivery and invoice .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 601
+}

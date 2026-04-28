@@ -1,0 +1,112 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q4 2022 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 180 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q4 2022.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "We generated $1.8 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "We expect revenues to grow approximately 15% to 21% next quarter, subject to market conditions.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "What assumptions underpin your free cash flow guidance given the elevated capex spend?",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "We generated $1.8 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Can you clarify whether the margin expansion is sustainable into next year given rising input costs?",
+    "word_count": 16
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "INTC",
+    "date": "20221026",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 180 basis points pending supplier contract renewals.",
+    "word_count": 15
+  }
+]

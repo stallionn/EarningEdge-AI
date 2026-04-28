@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_0300",
+  "date": "19000101",
+  "raw_text": "Operating profit fell to EUR 35.4 mn from EUR 68.8 mn in 2007 , including vessel sales gain of EUR 12.3 mn .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 300
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q3 2020 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of PG.",
+    "section": "qa",
+    "text": "Operating income reached $7.9 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of PG.",
+    "section": "qa",
+    "text": "Revenue guidance of $20.8 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of PG.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of PG.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q3 2020.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of PG.",
+    "section": "qa",
+    "text": "We generated $17.8 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of PG.",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 55 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How are you thinking about pricing power versus volume growth in the current environment?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Our cloud segment grew 11% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Could you quantify the FX headwind embedded in your guidance?",
+    "word_count": 10
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "PG",
+    "date": "20200714",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Revenue guidance of $20.8 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_1200",
+  "date": "19000101",
+  "raw_text": "The mill is concentrating on getting the supercalendered line running satisfactorily before restarting its older newsprint line .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1200
+}

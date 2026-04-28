@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_4300",
+  "date": "19000101",
+  "raw_text": "LKAB , headquartered in Lulea , Sweden , is a high-tech mining company producing upgraded iron ore products for the steel industry .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 4300
+}

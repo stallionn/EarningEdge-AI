@@ -1,0 +1,112 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q3 2019 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MMC.",
+    "section": "remarks",
+    "text": "We delivered record revenue of $17.9 billion this quarter, representing 25% year-over-year growth.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MMC.",
+    "section": "remarks",
+    "text": "We expect revenues to grow approximately 25% to 27% next quarter, subject to market conditions.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MMC.",
+    "section": "remarks",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of MMC.",
+    "section": "remarks",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q3 2019.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How should we think about the cadence of revenue recognition in the second half?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Customer acquisition exceeded our targets with 387 thousand new accounts added in the quarter.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "How are you thinking about pricing power versus volume growth in the current environment?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "MMC",
+    "date": "20190710",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  }
+]

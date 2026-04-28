@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_1901",
+  "date": "19000101",
+  "raw_text": "That address also happens to house Italian megamart Eataly , meaning that `` Come on , kids , we 're going to the Toy Building ! ''",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1901
+}

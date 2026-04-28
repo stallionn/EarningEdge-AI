@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q4 2023 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AVGO.",
+    "section": "qa",
+    "text": "We generated $16.7 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AVGO.",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AVGO.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AVGO.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q4 2023.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AVGO.",
+    "section": "qa",
+    "text": "We generated $16.7 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of AVGO.",
+    "section": "qa",
+    "text": "Our outlook assumes current foreign exchange rates hold; currency fluctuations could materially affect results.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "What assumptions underpin your free cash flow guidance given the elevated capex spend?",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Our cloud segment grew 15% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Can you clarify whether the margin expansion is sustainable into next year given rising input costs?",
+    "word_count": 16
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "AVGO",
+    "date": "20231008",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We expect revenues to grow approximately 15% to 10% next quarter, subject to market conditions.",
+    "word_count": 15
+  }
+]

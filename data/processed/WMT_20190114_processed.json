@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q1 2019 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of WMT.",
+    "section": "qa",
+    "text": "Customer acquisition exceeded our targets with 1997 thousand new accounts added in the quarter.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of WMT.",
+    "section": "qa",
+    "text": "Revenue guidance of $46.7 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of WMT.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of WMT.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q1 2019.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of WMT.",
+    "section": "qa",
+    "text": "Our cloud segment grew 4% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of WMT.",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 197 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Can you clarify whether the margin expansion is sustainable into next year given rising input costs?",
+    "word_count": 16
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Our gross margin expanded by 197 basis points to 55.0%, reflecting improved operational efficiency.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Could you quantify the FX headwind embedded in your guidance?",
+    "word_count": 10
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "WMT",
+    "date": "20190114",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  }
+]

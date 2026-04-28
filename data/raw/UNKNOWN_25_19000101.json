@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_2500",
+  "date": "19000101",
+  "raw_text": "The Tekla Structures 16 installation has been built according to Microsoft 's requirements for the Windows 7 certification , the Company added .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 2500
+}

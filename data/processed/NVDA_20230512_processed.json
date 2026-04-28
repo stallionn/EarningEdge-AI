@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q2 2023 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of NVDA.",
+    "section": "qa",
+    "text": "We generated $18.5 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of NVDA.",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 148 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of NVDA.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of NVDA.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q2 2023.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of NVDA.",
+    "section": "qa",
+    "text": "Operating income reached $11.1 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of NVDA.",
+    "section": "qa",
+    "text": "We anticipate margins may be impacted by approximately 148 basis points pending supplier contract renewals.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How should we think about the cadence of revenue recognition in the second half?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Operating income reached $11.1 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Can you clarify whether the margin expansion is sustainable into next year given rising input costs?",
+    "word_count": 16
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "NVDA",
+    "date": "20230512",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  }
+]

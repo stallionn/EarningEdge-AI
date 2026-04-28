@@ -1,0 +1,7 @@
+{
+  "ticker": "UNKNOWN_1800",
+  "date": "19000101",
+  "raw_text": "Some of the most recent technology deliveries include refinery technology to Anrak Aluminium , an iron ore pelletizing plant to Tata Steel and iron ore sintering plants to Bhushan Steel .",
+  "source": "huggingface/nickmuchi/financial-classification",
+  "dataset_row_id": 1800
+}

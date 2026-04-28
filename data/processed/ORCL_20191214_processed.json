@@ -1,0 +1,112 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q4 2019 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q4 2019.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "Our cloud segment grew 10% year-over-year, driven by strong enterprise demand.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "other",
+    "speaker_name": "We are reaffirming our full",
+    "section": "qa",
+    "text": "Revenue guidance of $8.2 billion assumes no further deterioration in consumer spending trends.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Are you seeing any signs of demand elasticity in your enterprise segment?",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "We generated $9.9 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Could you quantify the FX headwind embedded in your guidance?",
+    "word_count": 10
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "ORCL",
+    "date": "20191214",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "While we remain optimistic, there can be no assurance that macroeconomic headwinds won't affect demand.",
+    "word_count": 15
+  }
+]

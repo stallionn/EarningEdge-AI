@@ -1,0 +1,122 @@
+[
+  {
+    "sentence_id": 0,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "other",
+    "speaker_name": "unknown",
+    "section": "remarks",
+    "text": "Thank you for joining us for our Q4 2023 earnings call.",
+    "word_count": 11
+  },
+  {
+    "sentence_id": 1,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CRM.",
+    "section": "qa",
+    "text": "Operating income reached $5.1 billion, demonstrating the operating leverage in our model.",
+    "word_count": 12
+  },
+  {
+    "sentence_id": 2,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CRM.",
+    "section": "qa",
+    "text": "We believe the pipeline is strong, but conversion timing remains uncertain given customer budget cycles.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 3,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CRM.",
+    "section": "qa",
+    "text": "I'll now turn the call over to our CFO for a more detailed financial review.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 4,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CRM.",
+    "section": "qa",
+    "text": "Our Chief Financial Officer will now provide the financial details for Q4 2023.",
+    "word_count": 13
+  },
+  {
+    "sentence_id": 5,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CRM.",
+    "section": "qa",
+    "text": "We generated $2.4 billion in free cash flow, enabling us to return capital to shareholders.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 6,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "ceo",
+    "speaker_name": "I'm the Chief Executive Officer of CRM.",
+    "section": "qa",
+    "text": "We expect revenues to grow approximately 9% to 27% next quarter, subject to market conditions.",
+    "word_count": 15
+  },
+  {
+    "sentence_id": 7,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "How should we think about the cadence of revenue recognition in the second half?",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 8,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Thank you for the question.",
+    "word_count": 5
+  },
+  {
+    "sentence_id": 9,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "analyst",
+    "speaker_name": "Analyst - First question",
+    "section": "qa",
+    "text": "Our gross margin expanded by 117 basis points to 41.3%, reflecting improved operational efficiency.",
+    "word_count": 14
+  },
+  {
+    "sentence_id": 10,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Could you quantify the FX headwind embedded in your guidance?",
+    "word_count": 10
+  },
+  {
+    "sentence_id": 11,
+    "ticker": "CRM",
+    "date": "20231106",
+    "speaker_role": "analyst",
+    "speaker_name": "Second question - Analyst",
+    "section": "qa",
+    "text": "Our outlook assumes current foreign exchange rates hold; currency fluctuations could materially affect results.",
+    "word_count": 14
+  }
+]
