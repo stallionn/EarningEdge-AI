@@ -146,7 +146,11 @@ def process_transcript(records: list[dict], finbert_clf, nlp_ner) -> dict | None
     guidance_specificity = min(1.0, numeric_count / max(1, len(records)) * 2)
 
     # 2.5 Management Confidence Score Computation
+    # Base confidence from sentiment (positive sentiment should increase confidence)
+    sentiment_confidence = (remarks_sentiment + 1) / 2  # Normalize -1 to 1 -> 0 to 1
+    
     confidence_score = (
+        0.30 * sentiment_confidence +  # 30% weight on actual sentiment
         CONF_WEIGHT_CERTAINTY * certainty_norm + 
         CONF_WEIGHT_SPECIFICITY * guidance_specificity +
         CONF_WEIGHT_HEDGE_INV * (1.0 - hedge_density_norm) +

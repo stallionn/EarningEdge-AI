@@ -55,6 +55,7 @@ plotly>=5.20.0
 tqdm>=4.66.2
 python-dotenv>=1.0.1
 pyarrow>=16.0.0      # for parquet support
+mistralai>=1.0.0     # for AI analysis and recommendations
 
 # Testing
 pytest>=8.1.1

@@ -272,6 +272,81 @@ with tab3:
     st.markdown("### Mix Text, PDF, and Real-time Audio Alpha Generation")
     st.write("Upload a PDF transcript and/or an Audio file. Audio will be streamed second-by-second to identify hesitation, pauses, and reluctance.")
     
+    # New Combined Analysis Section
+    st.markdown("---")
+    st.markdown("### 🎯 Combined Audio + Transcript Analysis (AI-Powered)")
+    st.write("Upload both audio file and transcript for comprehensive analysis with AI buy/sell recommendation.")
+    
+    combined_audio = st.file_uploader("Upload Audio File", type=["wav", "mp3"], key="combined_audio")
+    combined_transcript = st.text_area("Paste Full Transcript Here", height=150, key="combined_transcript")
+    
+    if st.button("Run Combined Analysis with AI 🤖", key="combined_btn"):
+        if combined_audio and len(combined_transcript) > 50:
+            with st.spinner("Processing audio and transcript with AI analysis..."):
+                try:
+                    files = {"file": (combined_audio.name, combined_audio.getvalue(), combined_audio.type)}
+                    data = {"transcript_text": combined_transcript}
+                    
+                    response = requests.post("http://127.0.0.1:8000/analyze/combined", files=files, data=data)
+                    
+                    if response.status_code == 200:
+                        res_data = response.json()
+                        st.success("Combined Analysis Complete! 🎯")
+                        
+                        # Main combined score
+                        c_col1, c_col2, c_col3 = st.columns(3)
+                        c_col1.metric("Combined Confidence", f"{(res_data.get('combined_confidence', 0)*100):.2f}%")
+                        c_col2.metric("Audio Quality Score", f"{(res_data.get('audio_confidence', 0)*100):.2f}%")
+                        c_col3.metric("Transcript Specificity", f"{(res_data.get('transcript_specificity', 0)*100):.2f}%")
+                        
+                        # AI Analysis
+                        st.markdown("### 🤖 AI Analysis & Recommendation")
+                        st.info(res_data.get('ai_analysis', 'AI analysis not available'))
+                        
+                        # Audio Metrics
+                        with st.expander("🔊 Audio Quality Details"):
+                            a_col1, a_col2, a_col3 = st.columns(3)
+                            a_col1.metric("SNR", f"{res_data.get('audio_metrics', {}).get('snr_db', 0):.2f} dB")
+                            a_col2.metric("Quality", res_data.get('audio_metrics', {}).get('quality_flag', 'N/A'))
+                            a_col3.metric("Voice Activity", f"{(res_data.get('audio_metrics', {}).get('voice_activity_ratio', 0)*100):.1f}%")
+                            st.metric("Hesitation Pauses (>500ms)", res_data.get('audio_metrics', {}).get('hesitation_pauses_500ms', 0))
+                            st.metric("Long Pauses (>1000ms)", res_data.get('audio_metrics', {}).get('hesitation_pauses_1000ms', 0))
+                        
+                        # Transcript Metrics
+                        with st.expander("📋 Transcript Detail Analysis"):
+                            t_col1, t_col2, t_col3 = st.columns(3)
+                            t_col1.metric("Word Count", res_data.get('transcript_metrics', {}).get('word_count', 0))
+                            t_col2.metric("Financial Numbers", res_data.get('transcript_metrics', {}).get('financial_numbers', 0))
+                            t_col3.metric("Dollar Amounts", res_data.get('transcript_metrics', {}).get('dollar_amounts', 0))
+                            st.metric("Percentages Mentioned", res_data.get('transcript_metrics', {}).get('percentages', 0))
+                            st.metric("Financial Keywords", res_data.get('transcript_metrics', {}).get('financial_keywords', 0))
+                        
+                        # NLP Signals
+                        with st.expander("🧠 NLP Sentiment Signals"):
+                            n_col1, n_col2, n_col3 = st.columns(3)
+                            n_col1.metric("Remarks Sentiment", f"{res_data.get('nlp_signals', {}).get('remarks_sentiment', 0):.2f}")
+                            n_col2.metric("Q&A Sentiment", f"{res_data.get('nlp_signals', {}).get('qa_sentiment', 0):.2f}")
+                            n_col3.metric("Hedge Density", f"{(res_data.get('nlp_signals', {}).get('hedge_density', 0)*100):.1f}%")
+                            st.metric("CEO/CFO Divergence", f"{res_data.get('nlp_signals', {}).get('ceo_cfo_divergence', 0):.2f}")
+                        
+                        # Score Breakdown
+                        with st.expander("📊 Score Composition"):
+                            breakdown = res_data.get('score_breakdown', {})
+                            st.json(breakdown)
+                        
+                        # Full JSON
+                        with st.expander("📄 Full Response JSON"):
+                            st.json(res_data)
+                            
+                    else:
+                        st.error(f"API Error ({response.status_code}): {response.text}")
+                except requests.exceptions.ConnectionError:
+                    st.error("FastAPI Backend Offline. Ensure you run: `uvicorn api.main:app --reload`")
+        else:
+            st.error("Please upload both an audio file and provide transcript text (min 50 characters).")
+    
+    st.markdown("---")
+    
     t3col1, t3col2 = st.columns([5, 4])
     
     with t3col1:

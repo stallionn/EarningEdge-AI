@@ -29,6 +29,7 @@ from config import MODELS_DIR, SIGNALS_DIR, FINBERT_BASE
 from preprocess import segment_sentences, clean_text
 from compute_signals import process_transcript
 from audio_quality import assess_audio_quality
+from enhanced_analysis import analyze_transcript_detail, compute_combined_score, generate_ai_analysis
 
 log = logging.getLogger("api")
 logging.basicConfig(level=logging.INFO)
@@ -276,3 +277,112 @@ def get_historical_signals(ticker: str):
         
     records = subset.to_dict(orient="records")
     return {"ticker": ticker.upper(), "calls_indexed": len(records), "data": records}
+
+
+@app.post("/analyze/combined")
+def analyze_combined_audio_transcript(
+    file: UploadFile = File(...),
+    transcript_text: str = Form(...)
+):
+    """
+    Comprehensive analysis combining audio quality and transcript analysis.
+    
+    This endpoint:
+    1. Analyzes audio quality (SNR, pauses, voice activity)
+    2. Analyzes transcript detail (numbers, financial keywords, specificity)
+    3. Runs NLP analysis on the transcript
+    4. Computes a combined confidence score
+    5. Generates AI-powered buy/sell recommendation
+    
+    Args:
+        file: Audio file (wav, mp3)
+        transcript_text: Full transcript text
+        
+    Returns:
+        Combined analysis with all metrics and AI recommendation
+    """
+    try:
+        # Load and process audio
+        audio_bytes = file.file.read()
+        import tempfile
+        import os
+        
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as temp_audio:
+            temp_audio.write(audio_bytes)
+            temp_path = temp_audio.name
+            
+        waveform, sr = librosa.load(temp_path, sr=22050)
+        os.remove(temp_path)
+        
+        # Audio Quality Assessment
+        audio_metrics = assess_audio_quality(waveform, sr, verbose=False)
+        
+        # Transcript Detail Analysis
+        transcript_metrics = analyze_transcript_detail(transcript_text)
+        
+        # NLP Analysis
+        clean_text_payload = clean_text(transcript_text)
+        doc = models["nlp_split"](clean_text_payload)
+        
+        records = []
+        for idx, sent in enumerate(doc.sents):
+            cleaned = sent.text.strip()
+            if len(cleaned.split()) > 3:
+                records.append({
+                    "sentence_id": idx,
+                    "text": cleaned,
+                    "speaker_role": "ceo",
+                    "section": "remarks",
+                    "word_count": len(cleaned.split())
+                })
+        
+        nlp_signals = {}
+        if records:
+            try:
+                nlp_signals = process_transcript(records, models["finbert_clf"], models["nlp_ner"])
+            except Exception as e:
+                log.warning(f"NLP analysis failed: {e}")
+        
+        # Compute Combined Score
+        combined_results = compute_combined_score(audio_metrics, transcript_metrics, nlp_signals)
+        
+        # Generate AI Analysis
+        ai_analysis = generate_ai_analysis(
+            combined_results['combined_confidence'],
+            audio_metrics,
+            transcript_metrics,
+            nlp_signals,
+            transcript_text
+        )
+        
+        return {
+            "combined_confidence": combined_results['combined_confidence'],
+            "audio_confidence": combined_results['audio_confidence'],
+            "transcript_specificity": combined_results['transcript_specificity'],
+            "nlp_confidence": combined_results['nlp_confidence'],
+            "sentiment_score": combined_results['sentiment_score'],
+            "ai_analysis": ai_analysis,
+            "audio_metrics": {
+                "snr_db": audio_metrics['snr']['snr_db'],
+                "quality_flag": audio_metrics['snr']['quality_flag'],
+                "voice_activity_ratio": audio_metrics['vad']['voice_activity_ratio'],
+                "hesitation_pauses_500ms": audio_metrics['pauses']['pauses_over_500ms'],
+                "hesitation_pauses_1000ms": audio_metrics['pauses']['pauses_over_1000ms']
+            },
+            "transcript_metrics": {
+                "specificity_score": transcript_metrics['specificity_score'],
+                "word_count": transcript_metrics['word_count'],
+                "sentence_count": transcript_metrics['sentence_count'],
+                "financial_numbers": transcript_metrics['financial_data']['number_count'],
+                "dollar_amounts": transcript_metrics['financial_data']['dollar_count'],
+                "percentages": transcript_metrics['financial_data']['percentage_count'],
+                "financial_keywords": transcript_metrics['financial_data']['total_financial_keywords']
+            },
+            "nlp_signals": nlp_signals,
+            "score_breakdown": combined_results['breakdown']
+        }
+        
+    except Exception as e:
+        import traceback
+        log.error(traceback.format_exc())
+        raise HTTPException(status_code=500, detail=f"Combined analysis failed: {str(e)}")

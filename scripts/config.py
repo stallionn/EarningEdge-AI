@@ -24,6 +24,7 @@ SIGNALS_DIR = ROOT_DIR / "signals"
 ALPACA_API_KEY = os.getenv("ALPACA_API_KEY", "")
 ALPACA_SECRET_KEY = os.getenv("ALPACA_SECRET_KEY", "")
 ALPACA_BASE_URL = "https://paper-api.alpaca.markets"  # paper for free tier
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "")
 
 # ─── Data Sources ─────────────────────────────────────────────────────────────
 HF_EARNINGS_DATASET = "lamini/earnings-calls-qa"      # Primary HF dataset
